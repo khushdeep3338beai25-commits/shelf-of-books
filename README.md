@@ -58,10 +58,6 @@ Explore the live website:
 
 https://shelf-of-books-two.vercel.app/
 
-## 👨‍💻 Author
-
-**The Core Technology**
-
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
