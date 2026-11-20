@@ -1,12 +1,4 @@
 
-# 📚 SHELF OF BOOKS
-
-### An Interactive Digital Library
-
-A beautifully designed digital bookshelf that brings together a curated collection of books across multiple genres and categories. Discover books, explore collections, and enjoy a clean, immersive browsing experience.
-
-🌐 **Live Website:** https://shelf-of-books-two.vercel.app/
-
 ---
 
 ## ✨ Features
