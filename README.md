@@ -36,28 +36,6 @@ SHELF OF BOOKS combines the charm of traditional libraries with a modern digital
 - JavaScript
 - Vercel
 
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-Navigate to the project directory:
-
-```bash
-cd day-076-shelf-of-books
-```
-
-Open `index.html` in your browser or use VS Code Live Server.
-
-## 🌐 Live Demo
-
-Explore the live website:
-
-https://shelf-of-books-two.vercel.app/
-
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
